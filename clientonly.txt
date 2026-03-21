@@ -129,3 +129,5 @@ Key Binding Patch
 key-binding-patch
 OptifineCITPatch-
 OptiNotFine-
+InventoryHUD-1.12.2
+jei_area_fixer-
