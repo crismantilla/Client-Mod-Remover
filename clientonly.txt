@@ -131,3 +131,4 @@ OptifineCITPatch-
 OptiNotFine-
 InventoryHUD-1.12.2
 jei_area_fixer-
+esm-legacy-
