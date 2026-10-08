@@ -2,7 +2,7 @@ StatusEffectHUD
 minemenu-1.12.2
 SuperHostileNightVision-
 advancementscreenshot_1.12.2
-probe-0.s
+probe-0.
 enhancedvisuals
 fancymenu
 baubleshud
