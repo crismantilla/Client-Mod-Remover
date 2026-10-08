@@ -2,7 +2,7 @@ StatusEffectHUD
 minemenu-1.12.2
 SuperHostileNightVision-
 advancementscreenshot_1.12.2
-probe-0.
+probe-0.s
 enhancedvisuals
 fancymenu
 baubleshud
@@ -132,3 +132,14 @@ OptiNotFine-
 InventoryHUD-1.12.2
 jei_area_fixer-
 esm-legacy-
+drippyloadingscreen_
+LegendaryTooltips-
+entity_model_features_
+entity_texture_features_
+oculus-mc
+darkness-
+watermedia-2.1.37
+smoothswapping-
+VoidFog-
+connectedness-
+reforgium-
